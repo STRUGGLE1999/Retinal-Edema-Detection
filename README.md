@@ -100,43 +100,6 @@ print("val 数据集构建完成。")
 
 本项目的代码结构如下：
 
-
-├── MS_Demo
-│   └── code
-│       ├── retrain.py
-│       └── net
-│           ├── train.py
-│           └── utils.py
-└── OCT2017
-    ├── train
-    │   ├── CNV
-    │   │   ├── image1.jpeg
-    │   │   ├── image2.jpeg
-    │   │   └── ...
-    │   ├── DME
-    │   │   └── ...
-    │   ├── DRUSEN
-    │   │   └── ...
-    │   └── NORMAL
-    │       └── ...
-    ├── test
-    │   ├── CNV
-    │   │   └── ...
-    │   ├── DME
-    │   │   └── ...
-    │   ├── DRUSEN
-    │   │   └── ...
-    │   └── NORMAL
-    │       └── ...
-    └── val
-        ├── CNV
-        │   └── ...
-        ├── DME
-        │   └── ...
-        ├── DRUSEN
-        │   └── ...
-        └── NORMAL
-            └── ...
 ```bash
 ├── MS_Demo
 │   └── code

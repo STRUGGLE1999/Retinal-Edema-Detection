@@ -137,7 +137,7 @@ print("val 数据集构建完成。")
         │   └── ...
         └── NORMAL
             └── ...
-
+```bash
 ├── MS_Demo
 │   └── code
 │       ├── retrain.py
@@ -174,7 +174,7 @@ print("val 数据集构建完成。")
         │   └── ...
         └── NORMAL
             └── ...
-
+```
 
 假设数据集存放在 `/home/mindspore/work/OCT2017`，请使用如下命令启动重新训练脚本：
 

@@ -4,19 +4,26 @@ Retina-AI 是一个基于 MindSpore 的图像分类项目，其主要任务是�
 
 ---
 
+
 Requirements:
-
+```bash
 mindcv
-
 mindspore==2.5.0
-
 matplotlib
-
 numpy
-
 opencv-python
-
 pandas
+```
+## 实验环境
+本实验基于 MindSpore 框架，并使用 MindCV 套件中 InceptionV3 预训练模型，模型地址：https://github.com/mindspore-lab/mindcv/blob/main/mindcv/models/inceptionv3.py
+
+软件环境：
+
+- python==3.9.0
+- mindspore==2.5.0
+- mindcv==0.3.0
+硬件环境：Ascend
+
 
 ## 数据集收集
 

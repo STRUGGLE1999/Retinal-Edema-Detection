@@ -22,6 +22,7 @@ pandas
 - python==3.9.0
 - mindspore==2.5.0
 - mindcv==0.3.0
+
 硬件环境：Ascend
 
 
